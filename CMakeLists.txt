@@ -105,3 +105,5 @@ install(DIRECTORY ./apps DESTINATION /opt)
 install(DIRECTORY ./res/media DESTINATION /opt)
 install(DIRECTORY ./res/light DESTINATION /opt)
 install(DIRECTORY ./include DESTINATION /usr/)
+
+test
